@@ -14,33 +14,33 @@ This system was created by **Homoud Al Kabi** in 2025 to explore new algebraic b
 
 The Homoudic Number System introduces new rules to allow division by zero in a consistent, self-contained way. The rules are:
 
-### Core Definitions
-1. `j = 1 / 0`  
-2. `j * 0 = 1`  
-3. `0j = 1`  
-4. `a / 0 = aj` for any real number `a`  
-5. `aj * 0 = a`  
-6. `0 / 0 = 0j = 1`
+### Core Definitions  
+**1.** `j = 1 / 0`  
+**2.** `j * 0 = 1`  
+**3.** `0j = 1`  
+**4.** `a / 0 = aj` for any real number `a`  
+**5.** `aj * 0 = a`  
+**6.** `0 / 0 = 0j = 1`
 
 ---
 
-### Arithmetic Rules
-7. `j + j = 2j`  
-8. `aj + bj = (a + b)j`  
-9. `1 / j = 0`  
-10. `j / j = 1`  
-11. `j - j = 0`
+### Arithmetic Rules  
+**7.** `j + j = 2j`  
+**8.** `aj + bj = (a + b)j`  
+**9.** `1 / j = 0`  
+**10.** `j / j = 1`  
+**11.** `j - j = 0`
 
 ---
 
-### Power Rules
-12. `j^n = j` for all integers `n ≥ 1`  
-13. `a * j^n = a^n * j` for all integers `n ≥ 1`  
+### Power Rules  
+**12.** `j^n = j` for all integers `n ≥ 1`  
+**13.** `a * j^n = a^n * j` for all integers `n ≥ 1`  
   Examples:  
   - `5j^2 = 25j`  
   - `2j^3 = 8j`  
-14. `j^0 = 1`  
-15. `0^0 = 1`
+**14.** `j^0 = 1`  
+**15.** `0^0 = 1`
 
 ---
 
